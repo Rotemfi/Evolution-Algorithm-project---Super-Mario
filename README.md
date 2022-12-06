@@ -1,8 +1,7 @@
-# Evolution-Algorithm-project---Super-Mario
+# Evolution-Algorithm-project - Super-Mario
 
-<h1 align="center">Hi 👋, I'm Rotem</h1>
-<h3 align="center">A passionate Computer Science student from Israel</h3>
-
+<h1 align="center">Super Mario! </h1>
+<h3 align="center">Using evolution algorithm project 🍄 </h3>
 <h5 align="left"> 📫 How to reach me : *rotem.firstater@gmail.com ** </h5>
    <h5 align="left">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
 <h5 align="left">Connect with me:</h5>
