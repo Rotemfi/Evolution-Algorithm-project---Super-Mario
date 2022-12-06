@@ -1,9 +1,9 @@
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">Using evolution algorithm project 🍄 </h3>
-<h5 align="left"> Writen by : *Rotem Firstser, Merav Sinai, Vlad Tubin ** </h5>
-   <h5 align="left">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
-<h5 align="left">Connect with me:</h5>
-<p align="left">
+<h5 align="center"> Writen by : *Rotem Firstser, Merav Sinai, Vlad Tubin ** </h5>
+   <h5 align="center">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
+<h5 align="center">Connect with me:</h5>
+<p align="center">
 <a href="https://linkedin.com/in/rotem-firstater-b311311b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rotem firstater" height="30" width="40" /></a>
 <a href="https://fb.com/rotem.firstater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rotem firstater" height="30" width="40" /></a>
 <a href="https://instagram.com/art_by_rotem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_by_rotem" height="30" width="40" /></a>
