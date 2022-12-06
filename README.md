@@ -1,6 +1,6 @@
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">Using evolution algorithm project 🍄 </h3>
-<h5 align="center"> Writen by : *Rotem Firstser, Merav Sinai, Vlad Tubin ** </h5>
+<h5 align="center"> Writen by : *Rotem Firstser, Merav Sinai, Vlad Tovbin ** </h5>
    <h5 align="center">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
 <h5 align="center">Connect with me:</h5>
 <p align="center">
