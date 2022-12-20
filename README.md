@@ -75,6 +75,8 @@
 
 
     </p>
+    
+    <img src='image.jpg' />
   
 </body>
 </html>
