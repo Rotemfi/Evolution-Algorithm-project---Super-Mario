@@ -1,5 +1,8 @@
 
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/5f9zDqYgZFzBDmC.png" align="center" width="800" height="400">
+ </p>
 <h3 align="center">🍄 Using evolution algorithm project 🍄 </h3>
 
 <h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
@@ -7,9 +10,6 @@
 <p align="center">
 <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
  </p>
-
-
-![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
 
 <html lang="he">
 <head>
@@ -301,7 +301,7 @@ i.
     הפתרון שהגענו אליו הוא להוריד את גודל הקנסות באופן כללי, וחיפשנו פרמטרים אחרים שיהוו עבורנו אינדיקציה לפתרון. מצאנו כי להגדיל את הfitness (לתת "בונוס" לוקטור) עבור אורך המסלול - כמה הוא הצליח "לשרוד" במשחק. בנוסף לכך, עבור וקטור שצלח את ה מסלול כולו ללא פסילות נתנו בונוס מוגדל.
     </p>
 
-
+![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
 
 
     
