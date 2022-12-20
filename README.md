@@ -1,7 +1,7 @@
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">Using evolution algorithm project 🍄 </h3>
 
-<h5 align="center"> נכתב על ידי: מירב סיני <br> <br/> רותם פירסטטר <br/> ולד טובין** </h5>
+<h5 align="center"> נכתב על ידי:<br/> מירב סיני <br/> <br/> רותם פירסטטר <br/> ולד טובין</h5>
 
 
   <h5 align="center">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
@@ -15,12 +15,10 @@
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<img src="https://www.webmaster.org.il/images/logo.gif" 
-     width="254" height="63" alt="webmaster logo" />
-
 <html lang="he">
 <head>
+  <img src="[https://www.webmaster.org.il/images/logo.gif](https://screenshot.googleplex.com/9Mqk69QEqokuwXL.png)" 
+     width="254" height="63" alt="mushrooms logo" />
     <meta charset="utf-8" />
 </head>
 <body dir="rtl">
@@ -54,8 +52,9 @@
     המטרה היא להשיג כמה שיותר נקודות במסלול ולהגיע לדגל בסופו - לא להפסל ע"י אויבים בדרך.
     <br/> 
     ישנם 2 סוגי אויבים: <br/>
-    1. גומבה - אויבי קרקע שאסור להתקל בהם. מריו נמצא גם הוא בגובה הקרקע ולכן צריך לקפוץ מעליהם. <br/>
-    2. לקיטו - מפלצות אוויר שנמצאות בגובה הראש של מריו, על כן יש להתחמק מהן ע"י התכופפות.
+    1. <b>גומבה</b>
+        - אויבי קרקע שאסור להתקל בהם. מריו נמצא גם הוא בגובה הקרקע ולכן צריך לקפוץ מעליהם. <br/>
+    2. <b>לקיטו</b>- מפלצות אוויר שנמצאות בגובה הראש של מריו, על כן יש להתחמק מהן ע"י התכופפות.
       </p>
       <p>
 מפלצות יכולות להיות בגובה הראש של מריו ולכן הוא צריך להתכופף, או על הקרקע ואז הוא צריך לקפוץ. נקודות נוספות יתקבלו במידה והוא קופץ 2 צעדים לפני המפלצת כך שהוא נוחת בדיוק עליה ומוחץ אותה. 
@@ -64,8 +63,18 @@
           <br/><br/>
 שימו לב שאף אחד מהפריטים לא זז. 
       </p>
+ <h3> תיאור המשחק </h3>
+    <p>
+      פיתחנו משחק בו האלגוריתם יוצר באופן אקראי שלבים חדשים כך שלשחקנים יש מספר שלבים לשחק. אנו נשתמש באלגוריתם אבולוציוני שמגיב ומשתפר במהירות טובה - ראו גרפים מצורפים למטה.
+    </p>
+  
+ <h3> פורמט השלבים וייצוג הפעולות </h3>
+    <p>
+אנו מבטאים כל שלב באמצעות מחרוזת רצופה של אותיות (string) ע"י הסימונים הבאים:
 
 
+
+    </p>
   
 </body>
 </html>
