@@ -4,8 +4,10 @@
 
 <h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
 
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
 
-  ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
 
 ![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
 
@@ -33,8 +35,10 @@
       בפרויקט שלנו אנו שואפים לפתח אלגוריתם אבולוציוני היודע להעריך את ההצלחה של כל משחק על פני כל שלב, ויודע למצוא באמצעות אבולוציה את הדרך הטובה ביותר של שחקן להתמודד עם מסלול שניתן לו - לסיים את המסלול ללא להפסל ולמקסם את מספר הנקודות ששחקן צובר.
     </p>
     
-      ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
- <h2>תיאור הבעיה \ מטרת הפרויקט </h2>
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
+  <h2>תיאור הבעיה \ מטרת הפרויקט </h2>
       <p>
       מימוש אלגוריתם אבולוציוני של סופר מריו שמקבל את ההחלטות הכי טובות כאשר המטרה היא לצבור כמה שיותר נקודות במשחק.
     </p>
@@ -64,8 +68,8 @@
     <p>
 אנו מבטאים כל שלב באמצעות מחרוזת רצופה של אותיות (string) ע"י הסימונים הבאים:
     </p>
-    
-  ![Table](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png)
+      
+  <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png" width="900" height="550">
 
      <p>
 את המשחק קוראים, והוא גם רץ משמאל לימין. כך שהאות הראשונה במחרוזת תיאור המסלול מתארת את הנקודה הראשונה שמשחק והאות האחרונה מתארת את סיום המסלול (בו נמצא הדגל). לדוגמא:
@@ -89,8 +93,10 @@
         </p> 
 
   <h3 align="center">'  0 0 0 1 0 2 0 0 1 0 0 0 '</h3>
-    ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
- <h2>תיאור פתרון - אלגוריתם אבולוציוני </h2>
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
+  <h2>תיאור פתרון - אלגוריתם אבולוציוני </h2>
   <p>
      אלגוריתם אבולוציוני מורכב מכמה מחזורים של יצירת דורות שאנו רוצים שילכו שיתפרו.
   </p>
@@ -151,7 +157,9 @@ i.
    - את האוכלוסיה החדשה נבחר על ידי ביצוע טורניר בגודל 4, בין הוקטורים באוכלוסיה הנוכחית.
  <br/>
     </p>
-    ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
  <h2> התוכנה - מבט על </h2>
  <p>
  נעזרנו בסימולטור אשר מריץ שלב אחד של המשחק סופר מריו בעזרת הספרייה pygame. אנו משתמשים בספרייה eckity כדי לחשב את הריצה הכי טובה האפשרית של הבעיה ומשתמשים בסימולטור כדי להציג אותה.
@@ -186,7 +194,9 @@ i.
  </p>
 
 
-   ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
  <h2>ניסויים, מהלך האבולוציה ותוצאות</h2>
    <p>
      תחילה רצינו לבדוק מה גודל האוכלוסייה שיהיה הטוב ביותר עבור האלגוריתם.
@@ -269,8 +279,10 @@ i.
     <br/>
     <b> החלה מדור 51 best fitnessההתכנסות אל ה </b>
   </p>
-    ![MushroomsSeperator](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png)
-  <h2>מסקנות</h2>
+<p align="center">
+<img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ </p>
+ <h2>מסקנות</h2>
   <h3>גודל אוכלוסייה אופטימלי</h3>
   <p>
     מהבדיקות שביצענו על מנת למצוא את גודל האוכלוסיה האופטימלי ניתן לראות שעבור אוכלוסיה בגודל 100, אין התכנסות לפתרון האופטימלי כעבור 100 דורות.
