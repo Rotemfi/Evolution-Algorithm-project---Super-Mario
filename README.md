@@ -113,19 +113,28 @@
   </p>
   <p>
      <u> עבור גודל אוכלוסיה של 100 וקטורים קיבלנו:</u>
-    ![100vectors](  https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/100%20vectorcs.PNG)
-
+  </p>
+  <p>
+  
+   ![100vectors]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/100%20vectorcs.PNG)
+  </p>
+  <p>
+    Best Fitness calculated: 80.5
+    <br/>
+  אין התכנסות ל best fitness.
+  </p>
+  <p>
+     <u> עבור גודל אוכלוסיה של 300 וקטורים קיבלנו:</u>
+  </p>
+    <p>
+  
+   ![100vectors]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/300%20vectors.PNG)
+  </p>
+  <p>
     Best Fitness calculated: 85.5
     <br/>
     ההתכנסות אל ה best fitness החלה מדור 36.
-
-   ![example]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png)
   </p>
-     
-
-
-
-
 
     
 </body>
