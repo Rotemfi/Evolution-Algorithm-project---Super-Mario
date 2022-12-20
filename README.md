@@ -70,7 +70,6 @@
     </p>
       
   <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png" width="900" height="550">
-
      <p>
 את המשחק קוראים, והוא גם רץ משמאל לימין. כך שהאות הראשונה במחרוזת תיאור המסלול מתארת את הנקודה הראשונה שמשחק והאות האחרונה מתארת את סיום המסלול (בו נמצא הדגל). לדוגמא:
    ![example]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png)
