@@ -7,8 +7,6 @@
 
 <h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
 
-![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
-
 <p align="center">
 <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
  </p>
