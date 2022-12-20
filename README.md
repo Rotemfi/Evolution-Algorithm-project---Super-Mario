@@ -1,3 +1,4 @@
+
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">Using evolution algorithm project 🍄 </h3>
 
@@ -76,7 +77,8 @@
 
     </p>
     
-    <img src='image.jpg' />
+  ![Table](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png)
+
   
 </body>
 </html>
