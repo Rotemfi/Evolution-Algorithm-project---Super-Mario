@@ -1,29 +1,16 @@
 
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
-<h3 align="center">Using evolution algorithm project 🍄 </h3>
+<h3 align="center">🍄 Using evolution algorithm project 🍄 </h3>
 
-<h5 align="center"> נכתב על ידי:<br/> מירב סיני <br/> <br/> רותם פירסטטר <br/> ולד טובין</h5>
-
-
+<h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> רותם פירסטטר <br/> ולד טובין</h4>
 
 
-  <h5 align="center">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
-<h5 align="center">Connect with me:</h5>
-<p align="center">
-<a href="https://linkedin.com/in/rotem-firstater-b311311b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rotem firstater" height="30" width="40" /></a>
-<a href="https://fb.com/rotem.firstater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rotem firstater" height="30" width="40" /></a>
-<a href="https://instagram.com/art_by_rotem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_by_rotem" height="30" width="40" /></a>
-</p>
 
-<h5 align="left">Languages and Tools:</h5>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
 
 <html lang="he">
 <head>
-  <img src="[https://www.webmaster.org.il/images/logo.gif](https://screenshot.googleplex.com/9Mqk69QEqokuwXL.png)" 
-     width="254" height="63" alt="mushrooms logo" />
     <meta charset="utf-8" />
 </head>
 <body dir="rtl">
@@ -104,9 +91,30 @@
   <h3 align="center">'  0 0 0 1 0 2 0 0 1 0 0 0 '</h3>
   
  <h2>תיאור פתרון - אלגוריתם אבולוציוני </h2>
-  
- <h2>ניסויים, מהלך האבולוציה ותוצאות</h2>
+  <p>
+     אלגוריתם אבולוציוני מורכב מכמה מחזורים של יצירת דורות שאנו רוצים שילכו שיתפרו.
+  </p>
  <h3>מציאת גודל אוכלוסיה אופטימלי</h3>
+ <h4> מבנה הפרט </h4>
+ <p>כל פרט מורכב מוקטור באורך n (המייצג את אורכו של השלב במשחק)</br>
+כאשר
+ k = {0,1,2}
+vector[i] = k  
+כלומר במקום ה-
+i
+של הוקטור, נמצאת הפעולה ה-
+i.
+כאשר במידה ו - 
+ vector[i]=0
+  אז מריו ממשיך להתקדם ימינה, ואם,
+  vector[i] = 1
+  מריו קופץ
+  ,
+   ואם vector[i] = 2 מריו מתכופף.
+
+ </p>
+ 
+ <h2>ניסויים, מהלך האבולוציה ותוצאות</h2>
    <p>
      תחילה רצינו לבדוק מה גודל האוכלוסייה שיהיה הטוב ביותר עבור האלגוריתם.
 הרצנו את האלגוריתם האבולוציוני עם גדלי אוכלוסייה שונים: 100, 300, 500.
