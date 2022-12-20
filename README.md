@@ -2,7 +2,7 @@
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">🍄 Using evolution algorithm project 🍄 </h3>
 
-<h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> רותם פירסטטר <br/> ולד טובין</h4>
+<h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
 
 
 
