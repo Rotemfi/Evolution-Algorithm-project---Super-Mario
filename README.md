@@ -72,13 +72,14 @@
  <h3> פורמט השלבים וייצוג הפעולות </h3>
     <p>
 אנו מבטאים כל שלב באמצעות מחרוזת רצופה של אותיות (string) ע"י הסימונים הבאים:
-
-
-
     </p>
     
   ![Table](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png)
 
-  
+      <p>
+את המשחק קוראים, והוא גם רץ משמאל לימין. כך שהאות הראשונה במחרוזת תיאור המסלול מתארת את הנקודה הראשונה שמשחק והאות האחרונה מתארת את סיום המסלול (בו נמצא הדגל). לדוגמא:
+    </p>
+   ![example]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png)
+    
 </body>
 </html>
