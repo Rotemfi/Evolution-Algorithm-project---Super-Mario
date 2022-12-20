@@ -68,11 +68,12 @@
     <p>
 אנו מבטאים כל שלב באמצעות מחרוזת רצופה של אותיות (string) ע"י הסימונים הבאים:
     </p>
-      
+     <p align="center">
   <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/Nw5wdMgmyG6JnpD.png" width="900" height="550">
+     </p>
      <p>
-את המשחק קוראים, והוא גם רץ משמאל לימין. כך שהאות הראשונה במחרוזת תיאור המסלול מתארת את הנקודה הראשונה שמשחק והאות האחרונה מתארת את סיום המסלול (בו נמצא הדגל). לדוגמא:
-   ![example]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png)
+את המשחק קוראים, והוא גם רץ משמאל לימין. כך שהאות הראשונה במחרוזת תיאור המסלול מתארת את הנקודה הראשונה שמשחק והאות האחרונה מתארת את סיום המסלול (בו נמצא הדגל). לדוגמא:      
+        <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png" width="700" height="200">
      </p>
      <p>
          במצב הנתון לעיל מריו מתקדם משמאל לימין והמחרוזת המייצגת היא:
@@ -93,7 +94,9 @@
 
   <h3 align="center">'  0 0 0 1 0 2 0 0 1 0 0 0 '</h3>
 <p align="center">
+ 
 <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
+ 
  </p>
   <h2>תיאור פתרון - אלגוריתם אבולוציוני </h2>
   <p>
