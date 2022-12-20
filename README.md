@@ -1,9 +1,9 @@
 <h1 align="center">Super Mario! 👨🏻‍🔧 </h1>
 <h3 align="center">Using evolution algorithm project 🍄 </h3>
 <h5 align="center"> נכתב על ידי : *Rotem Firstser, Merav Sinai, Vlad Tovbin ** </h5>
-<h5 align="center"> נכתב על ידי : *מירב סיני ** </h5>
-<h5 align="center"> נכתב על ידי : *ולד טובין ** </h5>
-<h5 align="center"> נכתב על ידי : *רותם פירסטטר** </h5>
+<h5 align="center"> *מירב סיני ** </h5>
+<h5 align="center"> : *ולד טובין ** </h5>
+<h5 align="center"> *רותם פירסטטר** </h5>
 
    <h5 align="center">  📫Linkedin: https://www.linkedin.com/in/rotem-firstater/</h3>
 <h5 align="center">Connect with me:</h5>
