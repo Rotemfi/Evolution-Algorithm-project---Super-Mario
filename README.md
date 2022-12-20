@@ -5,7 +5,7 @@
  </p>
 <h3 align="center">🍄 Using evolution algorithm project 🍄 </h3>
 
-<h4 align="center"> <b>נכתב על ידי</b>:<br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
+<h4 align="center"> <br/> מירב סיני <br/> ולד טובבין <br/> רותם פירסטטר</h4>
 
 <p align="center">
 <img src="https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/9Mqk69QEqokuwXL.png" align="center" width="500" height="100">
