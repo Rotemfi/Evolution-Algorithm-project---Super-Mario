@@ -118,10 +118,10 @@
   
    ![100vectors]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/100%20vectorcs.PNG)
   </p>
-  <p>
+  <p align="center">
     Best Fitness calculated: 80.5
     <br/>
-  אין התכנסות ל best fitness.
+    <b> best fitnessאין התכנסות ל</b>
   </p>
   <p>
      <u> עבור גודל אוכלוסיה של 300 וקטורים קיבלנו:</u>
@@ -129,11 +129,60 @@
     <p>
   
    ![100vectors]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/300%20vectors.PNG)
-  </p>
-  <p>
+  <p align="center">
     Best Fitness calculated: 85.5
     <br/>
-    ההתכנסות אל ה best fitness החלה מדור 36.
+    <b> החלה מדור 36 best fitnessההתכנסות אל ה </b>
+  </p>
+  <p>
+     <u> עבור גודל אוכלוסיה של 500 וקטורים קיבלנו:</u>
+  </p>
+     <p>
+  
+   ![100vectors]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/500%20vectors.PNG)
+  <p align="center">
+    Best Fitness calculated: 85.5
+    <br/>
+    <b> החלה מדור 32 best fitnessההתכנסות אל ה </b>
+  </p>
+  
+   <h3> מציאת ההסתברות האופטימלית לביצוע מוטציה על פרט באוכלוסיה</h3>
+   <p>
+     תחילה רצינו לבדוק מה גודל האוכלוסייה שיהיה הטוב ביותר עבור האלגוריתם.דבר נוסף שרצינו לבדוק הוא מה גודל ההסתברות האופטימלי לביצוע של מוטציה על פרט באוכלוסיה.
+בדקנו את ההסתברויות הבאות: 0.01, 0.05, 0.09. גם פה ביצענו 20 ריצות ולקחנו את הממוצע של כל הריצות. בדקנו עבור אוכלוסיה בגודל 300.
+  </p>
+   <p>
+     <u> :עבור הסתברות לביצוע מוטציה של 0.01 </u>
+  </p>
+  <p>
+  
+   ![0.01 probability]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/0.01%20prop.PNG)
+  <p align="center">
+    Best Fitness calculated: 85.5
+    <br/>
+    <b> החלה מדור 81 best fitnessההתכנסות אל ה </b>
+  </p>
+  <p>
+     <u> :עבור הסתברות לביצוע מוטציה של 0.05 </u>
+  </p>
+  <p>
+  
+   ![0.05 probability]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/0.05%20prob.PNG)
+  <p align="center">
+    Best Fitness calculated: 85.5
+    <br/>
+    <b> החלה מדור 36 best fitnessההתכנסות אל ה </b>
+  </p>
+  <p>
+     <u> :עבור הסתברות לביצוע מוטציה של 0.09 </u>
+  </p>
+  <p>
+  
+   ![0.09 probability]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/0.09%20prob.PNG)
+  <p align="center">
+    Best Fitness calculated: 85.5
+    <br/>
+    <b> החלה מדור 51 best fitnessההתכנסות אל ה </b>
   </p>
 
     
