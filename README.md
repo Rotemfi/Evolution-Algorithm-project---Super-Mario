@@ -111,7 +111,16 @@
 <br/>
      <b>הגענו לתוצאות הבאות:</b>
   </p>
+  <p>
      <u> עבור גודל אוכלוסיה של 100 וקטורים קיבלנו:</u>
+    ![100vectors](  https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/100%20vectorcs.PNG)
+
+    Best Fitness calculated: 85.5
+    <br/>
+    ההתכנסות אל ה best fitness החלה מדור 36.
+
+   ![example]( https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/BpxpATSJDPje53H.png)
+  </p>
      
 
 
