@@ -339,16 +339,16 @@ i.
     </p>
  <h2>הוראות הרצה</h2>
  <p>
- - הורידו את התיקייה, ותפתחו command prompt בתקייה המכילה את כל הקבצים.
- </p><br/>
+ - הורידו את התיקייה, ופתחו command prompt בתקייה המכילה את כל הקבצים.
+ </p>
   <p>
  - התקינו את החבילות הנדרשות:
 pip install -r requirements.txt
- </p><br/>
+ </p>
   <p>
  - הריצו את התוכנית:
 python mario_main.py
- </p><br/>
+ </p>
 
 ![GamePreview](https://github.com/Rotemfi/Evolution-Algorithm-project---Super-Mario/blob/main/images/animation.gif)
 
