@@ -59,7 +59,7 @@ if __name__ == '__main__':
     info.read_file()
     print(f"Best sequence of actions calculated for mario: {actions}")
     print(f"Best Fitness calculated: {info.best_fitness}")
-    info.plot_graph()
+    # info.plot_graph()
 
     # Display Game
     display = Display(mario_evaluator.level)
